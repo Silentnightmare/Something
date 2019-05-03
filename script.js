@@ -1,0 +1,12 @@
+$(".picturething").click(function(){
+$("#hidden1").hide();
+$("#hidden2").show();
+});
+$(".picturething2").click(function(){
+$("#hidden1").hide();
+$("#hidden2").show();
+});
+$(".picturething3").click(function(){
+$("#hidden3").hide();
+$("#hidden4").show();
+});
